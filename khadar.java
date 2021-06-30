@@ -2,6 +2,7 @@ public class Abc
 {
 	public static void main(String args[])
 	{
-		System.out.print("good mrg");
+		System.out.print("byee");
+               
 	}
 }

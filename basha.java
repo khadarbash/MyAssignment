@@ -1,0 +1,11 @@
+public class Abc
+{
+	public static void main(String args[])
+	{
+			System.out.print("khadar");
+	}
+        void test()
+	{
+			System.out.print("khadar");
+	}
+}
